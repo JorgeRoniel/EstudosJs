@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(97, 187, 240);
+}
+
+header{
+    background-color: white;
+    border: 1px solid black;
+    box-shadow: 0px 5px 10px 0px black;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+section{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px 0px black;
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    padding: 10px;
+}
+
+img{
+    border-radius: 100%;
+}
+
+div {
+    margin-top: 15px;
+    align-items: center;
+}
+
+#subtitle{
+    justify-content: left;
+    margin-top: 30px;
+}
+
+button {
+    margin-top: 15px;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
